@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-39ff14?style=plastic&logo=#FF9A00&logoColor=39ff14"/></a>
+<a href="https://blog.naver.com/gypsi12" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-39ff14?style=plastic&logo=#FF9A00&logoColor=39ff14"/></a>
