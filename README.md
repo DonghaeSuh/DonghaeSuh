@@ -7,9 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-🌱 I’m currently learning ...
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 
 
 - 👯 I’m looking to collaborate on ...
@@ -21,6 +18,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://blog.naver.com/gypsi12" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-39ff14?style=plastic&logo=#FF9A00&logoColor=39ff14"/></a>
+
+🌱 I’m currently learning ...
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonghaeSuh&show_icons=true&theme=radical)
 
