@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 
+[![DongHae's github stats](https://github-readme-stats.vercel.app/api?username=DonghaeSuh&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![DongHae's github stats](https://github-readme-stats.vercel.app/api?username=DonghaeSuh&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonghaeSuh&layout=compact&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonghaeSuh&layout=compact&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
