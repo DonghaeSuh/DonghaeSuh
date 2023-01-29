@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NLP%20Researcher%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%DongHaesuh's%20GitHub!&descAlignY=60&descAlign=62"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NLP%20Researcher%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%20DongHaeSuh's%20GitHub!&descAlignY=60&descAlign=62"/></div>
 
 <a href="https://blog.naver.com/gypsi12" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-39ff14?style=plastic&logo=#FF9A00&logoColor=39ff14"/></a>
 
