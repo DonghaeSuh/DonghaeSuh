@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonghaeSuh&layout=compact&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=DonghaeSuh2&column=7&margin-w=15&margin-h=15) -->
 
