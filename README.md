@@ -9,10 +9,3 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> 
 
-
-
-<br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=DonghaeSuh&show_icons=true&theme=vue" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonghaeSuh&layout=compact&theme=vue" width="45%" />
-</div>
