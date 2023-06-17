@@ -10,12 +10,6 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> 
 
 
-<--
-[![DonghaeSuh's github stats](https://github-readme-stats.vercel.app/api?username=DonghaeSuh&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonghaeSuh&layout=compact&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 
 <br>
   <br>
